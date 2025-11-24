@@ -1,12 +1,9 @@
 <div align="center">
- <img src="https://github.com/lokicoule-stack/eslint-config/blob/main/media/repo-header.svg?raw=true" alt="Lokiverse Eslint Configuration" />
+  <img src="https://github.com/lokicoule-stack/eslint-config/blob/main/media/repo-header.svg?raw=true" alt="Lokiverse Eslint Configuration" />
+  <br />
+  <br />
+  Shareable ESLint configurations for TypeScript projects.
 </div>
-
-Shareable ESLint configurations for TypeScript projects.
-
----------------
-
-# @lokiverse/eslint-config
 
 ## Quick Start
 
